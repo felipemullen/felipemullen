@@ -12,7 +12,7 @@ An enthusiastic Software Engineer warming up to the idea that `coding` is nothin
 - Founder of [ind3x interactive](https://ind3x.games)
 - Adventurer / [Photographer](https://felipemullen.com/photography) when the time is right
 - A wannabe [poet](https://www.instagram.com/wordslikecastles/) and creative type
-- Non a fan of performing the pronoun dance
+- Non a fan of the pronoun dance
 
 Get in touch!
 
