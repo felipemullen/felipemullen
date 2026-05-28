@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Forum&size=40&pause=1000&color=000000&background=FFFFFF&random=false&width=435&height=55&lines=Felipe+Mullen)](https://git.io/typing-svg)
 
-An enthusiastic Software Engineer warming up to the idea that `coding` is nothing more than `string` manipulation with a few bells and whistles attached to it.
+Multi-disciplinary software engineer and engineering manager aquainted with the idea that `coding` is nothing more than `string` manipulation (now with AI™!)
 
 <a href="https://www.linkedin.com/in/felipemullen/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:felipedmullen@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -8,11 +8,9 @@ An enthusiastic Software Engineer warming up to the idea that `coding` is nothin
 ## Features
 
 - Half Brazilian 🇧🇷 / 🇺🇸
-- UCSD Graduate 🎓
+- UCSD Graduate in Computer Engineering 🎓
 - Founder of [ind3x interactive](https://ind3x.games)
 - Adventurer / [Photographer](https://felipemullen.com/photography) when the time is right
-- A wannabe [poet](https://www.instagram.com/wordslikecastles/) and creative type
-- Non a fan of the pronoun dance
 
 Get in touch!
 
@@ -25,6 +23,8 @@ Currently I am focused on **building up my indie game company**, [@ind3x](https:
   <a href="https://github.com/felipemullen"><img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemullen&theme=github_dark_dimmed" /></a>
 </p>
 
+- [Minima Host](https://minimahost.com/) - A Mac-first hosting service for self-hosters, offering dedicated Mac mini servers with private IPs, unlimited bandwidth, remote access, and managed support
+- [Shiritori Online](https://shiritori.fun/) - A real-time multiplayer Japanese vocabulary game with shareable lobbies, synchronized turn state, and a visual board that updates as players chain words together
 - [TLDR Panel](https://marketplace.visualstudio.com/items?itemName=felipemullen.tldr-panel) - A VS Code plugin for quick and easy command lookups directly in VSCode
 - [Tap Ski Exteme](https://github.com/indexinteractive/tapski-unity) - An AGPL licensed 2d endless downhill ski game for mobile platforms
 - [ChordFiddle](https://github.com/felipemullen/chord-fiddle) - A web app that functions similarly to jsfiddle but for composing guitar sheet music
