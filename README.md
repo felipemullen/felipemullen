@@ -16,7 +16,7 @@ Get in touch!
 
 ## Projects
 
-Currently I am focused on **building up my indie game company**, [@ind3x](https://github.com/indexinteractive/). The goal is to **one day** be able to make some major OSS contributions, both individually and via the company. At the moment, the goal is to simply put some bread on the table. 🥖
+Currently I am focused on **building up my indie game company**, [@ind3x](https://github.com/indexinteractive/). The goal is to **one day** be able to make some major OSS contributions, both individually and via the company. At the moment, the goal is to simply make a self-sustaining, equitable and proud company.
 
 <p align="center">
   <a href="https://github.com/felipemullen"><img height=270 src="https://github-readme-stats.vercel.app/api?username=felipemullen&show_icons=true&hide_rank=true&theme=github_dark_dimmed" /></a>
@@ -70,8 +70,8 @@ Check out [felipemullen.com/projects](https://felipemullen.com/projects) for mor
 
 ## Social Media
 
-<a href="https://twitter.com/pixelbyindex"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://linkedin.com/in/felipemullen"><img alt="Felipe Mullen on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/wordslikecastles"><img alt="WordsLikeCastles on instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/pixelbyindex"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<!-- <a href="https://instagram.com/wordslikecastles"><img alt="WordsLikeCastles on instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
 
 <a href="https://stackoverflow.com/u/3654061"><img alt="" src="https://img.shields.io/stackexchange/stackoverflow/r/3654061?style=for-the-badge&logo=stackoverflow&label=stackoverflow"></a>
