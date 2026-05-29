@@ -2,6 +2,16 @@
 
 Multi-disciplinary software engineer and engineering manager aquainted with the idea that `coding` is nothing more than `string` manipulation (now with AI™!)
 
+---
+
+## ⚠️ if you're looking for high quality code samples of my work ⚠️
+
+please visit the public repositories under [github/indexinteractive](https://github.com/indexinteractive)
+
+Most of the repositories in this account are experimental personal projects
+
+---
+
 <a href="https://www.linkedin.com/in/felipemullen/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:felipedmullen@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
